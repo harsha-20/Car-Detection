@@ -1,8 +1,12 @@
 # Vehicle Detection Using HOG and SVM
+The goals / steps of this project are the following:
 
- Here's a [link to the video result](./full_video_threshold_20_with_frame_skipping_my.mp4)
+* Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
+* Optionally, you can also apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector. 
+* Note: for those first two steps don't forget to normalize your features and randomize a selection for training and testing.
+* Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
+* Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
+* Estimate a bounding box for vehicles detected.
 
-Output:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/biy2DMKdcys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Link to Output Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/biy2DMKdcys/0.jpg)](https://www.youtube.com/watch?v=biy2DMKdcys)
