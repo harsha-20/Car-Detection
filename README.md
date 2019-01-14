@@ -9,4 +9,5 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 Link to Output Video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/biy2DMKdcys/0.jpg)](https://www.youtube.com/watch?v=biy2DMKdcys)
